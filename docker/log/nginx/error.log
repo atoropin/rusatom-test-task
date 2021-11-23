@@ -1,0 +1,275 @@
+2021/11/23 10:28:55 [notice] 1#1: using the "epoll" event method
+2021/11/23 10:28:55 [notice] 1#1: nginx/1.21.4
+2021/11/23 10:28:55 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 10:28:55 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 10:28:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 10:28:55 [notice] 1#1: start worker processes
+2021/11/23 10:28:55 [notice] 1#1: start worker process 22
+2021/11/23 10:37:28 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 10:37:28 [notice] 22#22: gracefully shutting down
+2021/11/23 10:37:28 [notice] 22#22: exiting
+2021/11/23 10:37:28 [notice] 22#22: exit
+2021/11/23 10:37:28 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2021/11/23 10:37:28 [notice] 1#1: worker process 22 exited with code 0
+2021/11/23 10:37:28 [notice] 1#1: exit
+2021/11/23 10:37:59 [notice] 1#1: using the "epoll" event method
+2021/11/23 10:37:59 [notice] 1#1: nginx/1.21.4
+2021/11/23 10:37:59 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 10:37:59 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 10:37:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 10:37:59 [notice] 1#1: start worker processes
+2021/11/23 10:37:59 [notice] 1#1: start worker process 22
+2021/11/23 10:38:25 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 10:38:25 [notice] 22#22: gracefully shutting down
+2021/11/23 10:38:25 [notice] 22#22: exiting
+2021/11/23 10:38:25 [notice] 22#22: exit
+2021/11/23 10:38:25 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2021/11/23 10:38:25 [notice] 1#1: worker process 22 exited with code 0
+2021/11/23 10:38:25 [notice] 1#1: exit
+2021/11/23 10:38:34 [notice] 1#1: using the "epoll" event method
+2021/11/23 10:38:34 [notice] 1#1: nginx/1.21.4
+2021/11/23 10:38:34 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 10:38:34 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 10:38:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 10:38:34 [notice] 1#1: start worker processes
+2021/11/23 10:38:34 [notice] 1#1: start worker process 24
+2021/11/23 10:49:45 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 10:49:45 [notice] 24#24: gracefully shutting down
+2021/11/23 10:49:45 [notice] 24#24: exiting
+2021/11/23 10:49:45 [notice] 24#24: exit
+2021/11/23 10:49:45 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2021/11/23 10:49:45 [notice] 1#1: worker process 24 exited with code 0
+2021/11/23 10:49:45 [notice] 1#1: exit
+2021/11/23 10:49:52 [notice] 1#1: using the "epoll" event method
+2021/11/23 10:49:52 [notice] 1#1: nginx/1.21.4
+2021/11/23 10:49:52 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 10:49:52 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 10:49:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 10:49:52 [notice] 1#1: start worker processes
+2021/11/23 10:49:52 [notice] 1#1: start worker process 21
+2021/11/23 10:50:02 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 10:50:02 [notice] 21#21: gracefully shutting down
+2021/11/23 10:50:02 [notice] 21#21: exiting
+2021/11/23 10:50:02 [notice] 21#21: exit
+2021/11/23 10:50:02 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2021/11/23 10:50:02 [notice] 1#1: worker process 21 exited with code 0
+2021/11/23 10:50:02 [notice] 1#1: exit
+2021/11/23 10:52:20 [notice] 1#1: using the "epoll" event method
+2021/11/23 10:52:20 [notice] 1#1: nginx/1.21.4
+2021/11/23 10:52:20 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 10:52:20 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 10:52:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 10:52:20 [notice] 1#1: start worker processes
+2021/11/23 10:52:20 [notice] 1#1: start worker process 24
+2021/11/23 10:52:31 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 10:52:31 [notice] 24#24: gracefully shutting down
+2021/11/23 10:52:31 [notice] 24#24: exiting
+2021/11/23 10:52:31 [notice] 24#24: exit
+2021/11/23 10:52:31 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2021/11/23 10:52:31 [notice] 1#1: worker process 24 exited with code 0
+2021/11/23 10:52:31 [notice] 1#1: exit
+2021/11/23 10:58:03 [notice] 1#1: using the "epoll" event method
+2021/11/23 10:58:03 [notice] 1#1: nginx/1.21.4
+2021/11/23 10:58:03 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 10:58:03 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 10:58:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 10:58:03 [notice] 1#1: start worker processes
+2021/11/23 10:58:03 [notice] 1#1: start worker process 23
+2021/11/23 10:58:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 10:58:18 [notice] 23#23: gracefully shutting down
+2021/11/23 10:58:18 [notice] 23#23: exiting
+2021/11/23 10:58:18 [notice] 23#23: exit
+2021/11/23 10:58:18 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/11/23 10:58:18 [notice] 1#1: worker process 23 exited with code 0
+2021/11/23 10:58:18 [notice] 1#1: exit
+2021/11/23 10:58:50 [notice] 1#1: using the "epoll" event method
+2021/11/23 10:58:50 [notice] 1#1: nginx/1.21.4
+2021/11/23 10:58:50 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 10:58:50 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 10:58:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 10:58:50 [notice] 1#1: start worker processes
+2021/11/23 10:58:50 [notice] 1#1: start worker process 24
+2021/11/23 10:59:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 10:59:03 [notice] 24#24: gracefully shutting down
+2021/11/23 10:59:03 [notice] 24#24: exiting
+2021/11/23 10:59:03 [notice] 24#24: exit
+2021/11/23 10:59:03 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2021/11/23 10:59:03 [notice] 1#1: worker process 24 exited with code 0
+2021/11/23 10:59:03 [notice] 1#1: exit
+2021/11/23 11:18:42 [notice] 1#1: using the "epoll" event method
+2021/11/23 11:18:42 [notice] 1#1: nginx/1.21.4
+2021/11/23 11:18:42 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 11:18:42 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 11:18:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 11:18:42 [notice] 1#1: start worker processes
+2021/11/23 11:18:42 [notice] 1#1: start worker process 22
+2021/11/23 11:22:28 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 11:22:28 [notice] 22#22: gracefully shutting down
+2021/11/23 11:22:28 [notice] 22#22: exiting
+2021/11/23 11:22:28 [notice] 22#22: exit
+2021/11/23 11:22:29 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2021/11/23 11:22:29 [notice] 1#1: worker process 22 exited with code 0
+2021/11/23 11:22:29 [notice] 1#1: exit
+2021/11/23 11:26:47 [notice] 1#1: using the "epoll" event method
+2021/11/23 11:26:47 [notice] 1#1: nginx/1.21.4
+2021/11/23 11:26:47 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 11:26:47 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 11:26:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 11:26:47 [notice] 1#1: start worker processes
+2021/11/23 11:26:47 [notice] 1#1: start worker process 22
+2021/11/23 11:28:27 [notice] 1#1: using the "epoll" event method
+2021/11/23 11:28:27 [notice] 1#1: nginx/1.21.4
+2021/11/23 11:28:27 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 11:28:27 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 11:28:27 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 11:28:27 [notice] 1#1: start worker processes
+2021/11/23 11:28:27 [notice] 1#1: start worker process 23
+2021/11/23 11:29:01 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 11:29:01 [notice] 23#23: gracefully shutting down
+2021/11/23 11:29:01 [notice] 23#23: exiting
+2021/11/23 11:29:01 [notice] 23#23: exit
+2021/11/23 11:29:01 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/11/23 11:29:01 [notice] 1#1: worker process 23 exited with code 0
+2021/11/23 11:29:01 [notice] 1#1: exit
+2021/11/23 11:30:16 [notice] 1#1: using the "epoll" event method
+2021/11/23 11:30:16 [notice] 1#1: nginx/1.21.4
+2021/11/23 11:30:16 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 11:30:16 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 11:30:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 11:30:16 [notice] 1#1: start worker processes
+2021/11/23 11:30:16 [notice] 1#1: start worker process 21
+2021/11/23 11:30:57 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 11:30:57 [notice] 21#21: gracefully shutting down
+2021/11/23 11:30:57 [notice] 21#21: exiting
+2021/11/23 11:30:57 [notice] 21#21: exit
+2021/11/23 11:30:57 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2021/11/23 11:30:57 [notice] 1#1: worker process 21 exited with code 0
+2021/11/23 11:30:57 [notice] 1#1: exit
+2021/11/23 11:33:26 [notice] 1#1: using the "epoll" event method
+2021/11/23 11:33:26 [notice] 1#1: nginx/1.21.4
+2021/11/23 11:33:26 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 11:33:26 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 11:33:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 11:33:26 [notice] 1#1: start worker processes
+2021/11/23 11:33:26 [notice] 1#1: start worker process 24
+2021/11/23 11:36:54 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 11:36:54 [notice] 24#24: gracefully shutting down
+2021/11/23 11:36:54 [notice] 24#24: exiting
+2021/11/23 11:36:54 [notice] 24#24: exit
+2021/11/23 11:36:54 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2021/11/23 11:36:54 [notice] 1#1: worker process 24 exited with code 0
+2021/11/23 11:36:54 [notice] 1#1: exit
+2021/11/23 11:41:15 [notice] 1#1: using the "epoll" event method
+2021/11/23 11:41:15 [notice] 1#1: nginx/1.21.4
+2021/11/23 11:41:15 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 11:41:15 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 11:41:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 11:41:15 [notice] 1#1: start worker processes
+2021/11/23 11:41:15 [notice] 1#1: start worker process 24
+2021/11/23 11:44:34 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 11:44:34 [notice] 24#24: gracefully shutting down
+2021/11/23 11:44:34 [notice] 24#24: exiting
+2021/11/23 11:44:34 [notice] 24#24: exit
+2021/11/23 11:44:34 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2021/11/23 11:44:34 [notice] 1#1: worker process 24 exited with code 0
+2021/11/23 11:44:34 [notice] 1#1: exit
+2021/11/23 11:45:16 [notice] 1#1: using the "epoll" event method
+2021/11/23 11:45:16 [notice] 1#1: nginx/1.21.4
+2021/11/23 11:45:16 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 11:45:16 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 11:45:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 11:45:16 [notice] 1#1: start worker processes
+2021/11/23 11:45:16 [notice] 1#1: start worker process 22
+2021/11/23 11:46:30 [notice] 1#1: using the "epoll" event method
+2021/11/23 11:46:30 [notice] 1#1: nginx/1.21.4
+2021/11/23 11:46:30 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 11:46:30 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 11:46:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 11:46:30 [notice] 1#1: start worker processes
+2021/11/23 11:46:30 [notice] 1#1: start worker process 23
+2021/11/23 11:48:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 11:48:56 [notice] 23#23: gracefully shutting down
+2021/11/23 11:48:56 [notice] 23#23: exiting
+2021/11/23 11:48:56 [notice] 23#23: exit
+2021/11/23 11:48:56 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/11/23 11:48:56 [notice] 1#1: worker process 23 exited with code 0
+2021/11/23 11:48:56 [notice] 1#1: exit
+2021/11/23 11:53:28 [notice] 1#1: using the "epoll" event method
+2021/11/23 11:53:28 [notice] 1#1: nginx/1.21.4
+2021/11/23 11:53:28 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 11:53:28 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 11:53:28 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 11:53:28 [notice] 1#1: start worker processes
+2021/11/23 11:53:28 [notice] 1#1: start worker process 22
+2021/11/23 11:54:41 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 11:54:41 [notice] 22#22: gracefully shutting down
+2021/11/23 11:54:41 [notice] 22#22: exiting
+2021/11/23 11:54:41 [notice] 22#22: exit
+2021/11/23 11:54:41 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2021/11/23 11:54:41 [notice] 1#1: worker process 22 exited with code 0
+2021/11/23 11:54:41 [notice] 1#1: exit
+2021/11/23 11:57:29 [notice] 1#1: using the "epoll" event method
+2021/11/23 11:57:29 [notice] 1#1: nginx/1.21.4
+2021/11/23 11:57:29 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 11:57:29 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 11:57:29 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 11:57:29 [notice] 1#1: start worker processes
+2021/11/23 11:57:29 [notice] 1#1: start worker process 23
+2021/11/23 12:19:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 12:19:37 [notice] 23#23: gracefully shutting down
+2021/11/23 12:19:37 [notice] 23#23: exiting
+2021/11/23 12:19:37 [notice] 23#23: exit
+2021/11/23 12:19:37 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/11/23 12:19:37 [notice] 1#1: worker process 23 exited with code 0
+2021/11/23 12:19:37 [notice] 1#1: exit
+2021/11/23 12:21:20 [notice] 1#1: using the "epoll" event method
+2021/11/23 12:21:20 [notice] 1#1: nginx/1.21.4
+2021/11/23 12:21:20 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 12:21:20 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 12:21:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 12:21:20 [notice] 1#1: start worker processes
+2021/11/23 12:21:20 [notice] 1#1: start worker process 23
+2021/11/23 12:21:49 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.3:9000", host: "localhost"
+2021/11/23 12:23:18 [error] 23#23: *3 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.3:9000", host: "localhost"
+2021/11/23 12:23:18 [error] 23#23: *3 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.3:9000", host: "localhost"
+2021/11/23 12:23:19 [error] 23#23: *3 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.3:9000", host: "localhost"
+2021/11/23 12:24:26 [error] 23#23: *7 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.3:9000", host: "localhost"
+2021/11/23 12:24:27 [error] 23#23: *9 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.3:9000", host: "localhost"
+2021/11/23 12:24:41 [error] 23#23: *11 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.3:9000", host: "localhost"
+2021/11/23 12:25:11 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 12:25:11 [notice] 23#23: gracefully shutting down
+2021/11/23 12:25:11 [notice] 23#23: exiting
+2021/11/23 12:25:11 [notice] 23#23: exit
+2021/11/23 12:25:11 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2021/11/23 12:25:11 [notice] 1#1: worker process 23 exited with code 0
+2021/11/23 12:25:11 [notice] 1#1: exit
+2021/11/23 12:26:10 [notice] 1#1: using the "epoll" event method
+2021/11/23 12:26:10 [notice] 1#1: nginx/1.21.4
+2021/11/23 12:26:10 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 12:26:10 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 12:26:10 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 12:26:10 [notice] 1#1: start worker processes
+2021/11/23 12:26:10 [notice] 1#1: start worker process 22
+2021/11/23 12:26:18 [error] 22#22: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.29.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.29.0.5:9000", host: "localhost"
+2021/11/23 12:26:19 [error] 22#22: *3 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.29.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.29.0.5:9000", host: "localhost"
+2021/11/23 12:26:21 [error] 22#22: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.29.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.29.0.5:9000", host: "localhost"
+2021/11/23 12:27:28 [error] 22#22: *7 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.29.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.29.0.5:9000", host: "localhost"
+2021/11/23 12:27:29 [error] 22#22: *7 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.29.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.29.0.5:9000", host: "localhost"
+2021/11/23 12:28:54 [error] 22#22: *10 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.29.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.29.0.5:9000", host: "localhost"
+2021/11/23 12:28:55 [error] 22#22: *12 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.29.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.29.0.5:9000", host: "localhost"
+2021/11/23 12:29:22 [error] 22#22: *14 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.29.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.29.0.5:9000", host: "localhost"
+2021/11/23 12:29:24 [error] 22#22: *16 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.26. in /var/www/app/vendor/composer/platform_check.php on line 24" while reading response header from upstream, client: 172.29.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.29.0.5:9000", host: "localhost"
+2021/11/23 12:31:02 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/11/23 12:31:02 [notice] 22#22: gracefully shutting down
+2021/11/23 12:31:02 [notice] 22#22: exiting
+2021/11/23 12:31:02 [notice] 22#22: exit
+2021/11/23 12:31:02 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2021/11/23 12:31:02 [notice] 1#1: worker process 22 exited with code 0
+2021/11/23 12:31:02 [notice] 1#1: exit
+2021/11/23 12:31:27 [notice] 1#1: using the "epoll" event method
+2021/11/23 12:31:27 [notice] 1#1: nginx/1.21.4
+2021/11/23 12:31:27 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/11/23 12:31:27 [notice] 1#1: OS: Linux 5.10.47-linuxkit
+2021/11/23 12:31:27 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/11/23 12:31:27 [notice] 1#1: start worker processes
+2021/11/23 12:31:27 [notice] 1#1: start worker process 24

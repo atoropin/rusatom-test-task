@@ -1,0 +1,10 @@
+network.host: 0.0.0.0
+
+http.port: 9200
+
+http.cors.enabled: true
+http.cors.allow-origin: "*"
+http.cors.allow-headers: "Authorization"
+
+transport.host: localhost
+transport.tcp.port: 9300
